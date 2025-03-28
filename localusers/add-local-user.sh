@@ -45,7 +45,7 @@ fi
 # Display username, password and host where the account was created.
 
 echo -e "username: \n${USERNAME} \n\n password: \n${PASSWD} \n\n hostname:\n$(hostname)"
-
+exit 0
 
 
 
